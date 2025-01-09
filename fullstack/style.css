@@ -1,0 +1,13 @@
+div {
+    height: 150px;
+    width: 140px;
+    border: 2px solid red;
+    padding: 30px;
+    margin: 50px;
+}
+
+span {
+    height: 140px;
+    width: 140px;
+    border: px solid orange;
+}
